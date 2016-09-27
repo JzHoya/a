@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main()
 {
-    pritnf("hello \n");
+    pritnf("hello world\n");
     
     return 0;
 }
